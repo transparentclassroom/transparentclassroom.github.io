@@ -1,2 +1,10 @@
-transparentclassroom.github.io
-==============================
+Transparent Classroom Blog
+==========================
+
+
+
+
+Locally
+-------
+
+- bundle exec jekyll serve
