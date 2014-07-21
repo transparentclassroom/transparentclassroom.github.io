@@ -1,0 +1,30 @@
+
+body, footer {
+  background-color: #588eb8;
+}
+
+.content {
+  background-color: white;
+  min-height: 700px;
+  padding-bottom: 200px;
+}
+
+.content h1 {
+  margin-top: 0;
+}
+
+.content h1 a:hover {
+  text-decoration: none;
+}
+
+.content .post {
+  border-bottom: solid 1px silver;
+}
+
+footer {
+  padding: 15px 0;
+  color: #ccc;
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: italic;
+}
