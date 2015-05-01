@@ -5,9 +5,9 @@ title: Check out our roadmap!
 
 You can always see what we're going to build next by looking at our roadmap:
 
-!https://trello.com/b/JdxwPgQL.png!:https://trello.com/b/JdxwPgQL/tc-roadmap
+<a href="https://trello.com/b/JdxwPgQL/tc-roadmap"><img src="https://trello.com/b/JdxwPgQL.png" style="max-width:100%;"/></a>
 
-"https://trello.com/b/JdxwPgQL/tc-roadmap":https://trello.com/b/JdxwPgQL/tc-roadmap
+[Go to Trello](https://trello.com/b/JdxwPgQL/tc-roadmap)
 
 It's got the big things we're thinking about building someday, and what we're planning on building next.
 

@@ -3,10 +3,36 @@ body, footer {
   background-color: #588eb8;
 }
 
-.content {
-  background-color: white;
+body.landing {
+  padding-top: 0;
+}
+
+.blog h1 {
+  color: white;
+}
+.blog h1 a {
+  color: white;
+}
+
+.main-pane {
   min-height: 700px;
-  padding-bottom: 200px;
+  padding-bottom: 20px;  
+}
+
+.post {
+  background-color: white;
+  padding: 1px 20px 30px;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.sidebar {
+  text-align: left;
+  /*background-color: white;*/
+}
+
+.sidebar .panel-body {
+  padding: 0;
 }
 
 .content h1 {
