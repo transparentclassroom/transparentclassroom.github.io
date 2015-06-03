@@ -13,7 +13,7 @@ That said, only you can know the right level of transparency for your community.
 
 You can always mark an observation as private. This means parents can't see it. If you later mark it public, they'll then be able to see it.
 
-<div class="well"><img src="/img/screen-shots/parent-access-0.png" style="max-width:100%;"/></div>
+<img src="/img/screen-shots/parent-access-0.png" style="max-width:100%;"/>
 
 You can also make observations private by default in this activity page or in the grid page. 
 
@@ -25,7 +25,7 @@ This is configured on the classroom edit page.
 
 You can have observations default to private for this classroom on the activity page. You can also make observations from the grid page be private.
 
-<div class="well"><img src="/img/screen-shots/parent-access-2.png" style="max-width:100%;"/></div>
+<img src="/img/screen-shots/parent-access-2.png" style="max-width:100%;"/>
 
 ----
 
@@ -33,7 +33,7 @@ You can have observations default to private for this classroom on the activity 
 
 This is the child lessons page. Parents love this page, and tell us it gives them a better appreciation for the 3/6 year progression that their child is in with Montessori.
 
-<div class="well"><img src="/img/screen-shots/parent-access-3.png" style="max-width:100%;"/></div>
+<img src="/img/screen-shots/parent-access-3.png" style="max-width:100%;"/>
 
 That said, some schools are uncomfortable with parents being able to look at this at any time. In the future we are planning on allowing you to generate a report with this information so that you can control when parents see it. Right now, you can choose to hide the page.
 
@@ -43,7 +43,7 @@ This is configured on the lesson set (primary, elementary, etc) edit page.
 1. click on "Lesson Sets" on the left admin section (You'll need to be an admin)
 1. click "Edit" by the lesson set you want to change.
 
-<div class="well"><img src="/img/screen-shots/parent-access-5.png" style="max-width:100%;"/></div>
+<img src="/img/screen-shots/parent-access-5.png" style="max-width:100%;"/>
 
 ----
 
