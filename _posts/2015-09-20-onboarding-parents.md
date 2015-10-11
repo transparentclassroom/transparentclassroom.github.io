@@ -1,3 +1,7 @@
+---
+layout: post
+title: Onboarding Parents
+---
 Onboaring parents to Transparent Classroom can seem like a big task, but it's actually very easy and straightforward.
 
 We recommend:

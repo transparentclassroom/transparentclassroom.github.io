@@ -1,3 +1,7 @@
+---
+layout: post
+title: Attendance
+---
 By popular demand, we've added some bells and whistles to attedance.
 
 1. A child's hours of attendance can be set (and changed).
