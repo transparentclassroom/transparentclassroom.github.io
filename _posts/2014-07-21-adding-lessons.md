@@ -2,7 +2,6 @@
 layout: post
 title: Adding Lessons
 ---
-
 A new school asked how to add lessons today, and I recorded my answer in a screencast here:
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -10,5 +9,5 @@ A new school asked how to add lessons today, and I recorded my answer in a scree
 </div>
 
 
-We are eager to add more help + documentation to the app. Right now, it's mostly manual, "email Katrina":mailto:katrina@transparentclassroom.com and she's always happy to do some free virtual training. 
+We are eager to add more help + documentation to the app. Right now, it's mostly manual, [email Katrina](mailto:katrina@transparentclassroom.com) and she's always happy to do some free virtual training. 
 
