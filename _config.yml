@@ -1,4 +1,4 @@
 name: The Transparent Blog
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 paginate: 10
