@@ -14,24 +14,9 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/main.css">
 </head>
-<body class="landing blog" data-spy="scroll" data-target=".navbar">
-<div class="navbar">
-  <div class="container">
-    <ul class="nav navbar-nav">
-      <li><a href="http://transparentclassroom.com/#welcome">Welcome</a></li>
-      <li><a href="http://transparentclassroom.com/#demo">Demo</a></li>
-      <li><a href="http://transparentclassroom.com/#see-it">See it</a></li>
-      <li><a href="http://transparentclassroom.com/#benefits">Benefits</a></li>
-      <!--<li><a href="#features">Features</a></li>-->
-      <li><a href="#pricing">Pricing</a></li>
-      <li class="active"><a href="#">Blog</a></li>
-    </ul>
+<body class="landing blog guest-page" data-spy="scroll" data-target=".navbar">
 
-    <ul class="nav navbar-nav pull-right">
-      <li><a href="/users/sign_in">Sign in</a></li>
-    </ul>
-  </div>
-</div>
+{% include navbar.html %}
 
 <div class="container">
   <h1><a href="/">{{site.name}}</a></h1>
