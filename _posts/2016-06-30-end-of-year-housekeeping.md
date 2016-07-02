@@ -15,7 +15,7 @@ If you've got that, great! If you'd like a little more detail, here you go:
 
 ## Update start and end dates for your sessions
 
-Go to Admin--> Sessions. Click on a session to edit the start and end dates. Even if you are closed for the summer, make sure the summer session has the correct start and end dates.This will ensure that we are charging you the correct amount during the summer. 
+Go to Admin--> Sessions. Click on a session to edit the start and end dates. Even if you are closed for the summer, make sure you have a summer session that is marked "inactive" with the correct start and end dates. This will ensure that we are charging you the correct amount during the summer. 
 
 ----
 
