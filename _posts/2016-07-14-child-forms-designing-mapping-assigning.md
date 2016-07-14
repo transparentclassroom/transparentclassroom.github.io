@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Child Forms: Designing forms, Mapping fields, Assigning + notification families, 
+title: "Child Forms: Designing, Mapping Fields, Assigning + Notifying Families"
 ---
 <a href="/img/screen-shots/using-forms-1.png"><img src="/img/screen-shots/using-forms-1.png" style="max-width:100%;"/></a>
 
